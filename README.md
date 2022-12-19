@@ -1,7 +1,6 @@
 # CS230-GamingRoom
 Work done for client: The Gaming Room
-# Briefly summarize The Gaming Room client and their software requirements. Who was the client? 
-# What type of software did they want you to design?
+# Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 The client was The Gaming Room. They wanted to expand their already existing web game, to other platforms.
 # What did you do particularly well in developing this documentation?
 I kept the documentation clean and somewhat concise for easy and clear understanding of the work being done.
